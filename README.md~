@@ -1,3 +1,5 @@
+# BPA-JobScheduler
+
 Group Project: 
     JobScheduler
 
@@ -6,18 +8,15 @@ Developers:
     Emanuel Brici
     Lucas Schwanz
 
-
 Packages in .jar: 
     gui
     JobScheduler
-
 
 Classes in gui: 
     ComputersToBeUsed.java
     Configuration.java
     MainWindow.java
     UserName.java
-
 
 Classes in JobScheduler: 
     ConfigurationUtil.java
