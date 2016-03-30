@@ -8,9 +8,6 @@ Developers:
     Emanuel Brici
     Lucas Schwanz
 
-Packages in .jar: 
-    gui
-    JobScheduler
 
 Classes in gui: 
     ComputersToBeUsed.java
@@ -31,7 +28,7 @@ Program Description:
     This software system is a multi computer processing system that utilize the
 cores of multiple computers on a network to run multiple jobs simultaneously.
 The system is designed to maximize the efficiency of the user and run multiple
-jobs quickly that otherwise would be run one at a time. It¬†¬†utilizes javas built
+jobs quickly that otherwise would be run one at a time. ItÅ†Å†utilizes javas built
 in multi threading to have each computer used on a separate thread. The software
 can be run from one computer that has access to the ENCS network.
 
